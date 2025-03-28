@@ -9,7 +9,7 @@
 ---
 
 ## 💼 Projects  
-🔹 **[Retail Sales Dashboard](https://github.com/TrozenSID/Retail-Sales-Dashboard)** - Power BI project analyzing sales trends.  
+🔹 **[Retail Sales Dashboard](https://github.com/yourgithubname/Retail-Sales-Dashboard)** - Power BI project analyzing sales trends.  
 🔹 **More projects coming soon!**  
 
 ---
