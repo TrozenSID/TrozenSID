@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm [Shivam Siddhu]  
 
-<!--
-**TrozenSID/TrozenSID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Analyst | SQL | Power BI | Excel | Python  
 
-Here are some ideas to get you started:
+💡 Passionate about turning raw data into actionable insights.  
+📊 Building interactive dashboards & data-driven solutions.  
+🔍 Always exploring new technologies in data analytics.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Projects  
+🔹 **[Retail Sales Dashboard](https://github.com/yourgithubname/Retail-Sales-Dashboard)** - Power BI project analyzing sales trends.  
+🔹 **More projects coming soon!**  
+
+---
+
+## 🛠 Skills  
+✔ SQL (SSMS)  
+✔ Power BI  
+✔ Excel  
+✔ Python (Beginner, learning)  
+✔ Data Visualization & Dashboarding  
+
+---
+
+## 📫 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivam-siddhu22/)  
+🔗 [GitHub](https://github.com/yourgithubname)  
