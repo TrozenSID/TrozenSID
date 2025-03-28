@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shivam Siddhu]  
+# 👋 Hi, I'm Shivam Siddhu  
 
 ### 🚀 Data Analyst | SQL | Power BI | Excel | Python  
 
@@ -9,7 +9,7 @@
 ---
 
 ## 💼 Projects  
-🔹 **[Retail Sales Dashboard](https://github.com/yourgithubname/Retail-Sales-Dashboard)** - Power BI project analyzing sales trends.  
+🔹 **[Retail Sales Dashboard](https://github.com/TrozenSID/Retail-Sales-Dashboard)** - Power BI project analyzing sales trends.  
 🔹 **More projects coming soon!**  
 
 ---
@@ -25,4 +25,4 @@
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-siddhu22/)  
-🔗 [GitHub](https://github.com/yourgithubname)  
+🔗 [GitHub](https://github.com/TrozenSID)  
